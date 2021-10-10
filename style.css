@@ -1,0 +1,31 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 50px;
+}       
+h3{
+    font-size: 20px;
+}
+h1, h3{
+    text-align: center
+}
+ul a{
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+ul{
+    text-align: center;
+    height: 390px;
+    width: 210px;
+    padding-top: 10%;
+    transition: 1s;
+}
+ul:hover{
+    width: 240px;
+    border: 3px solid black;
+}
+li{
+    padding-top: 40px;
+}
